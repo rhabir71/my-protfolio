@@ -1,0 +1,40 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+.header-top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 25px;
+    font-weight: 300;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.flexabel{
+    display:flex;
+}
+.div-width{
+    width: 50%;
+    margin-left: 7%;
+}
+.div-width img{
+    width: 85%;
+}
+.color-orenge{
+    color: orange;
+}
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, #FF9974,#FF694C);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 20px;
+}
