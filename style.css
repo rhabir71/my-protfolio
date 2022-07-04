@@ -10,6 +10,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 h3{
     font-size: 25px;
     font-weight: 300;
@@ -23,10 +26,11 @@ p{
 }
 .div-width{
     width: 50%;
-    margin-left: 7%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .div-width img{
-    width: 85%;
+    width: 90%;
 }
 .color-orenge{
     color: orange;
@@ -51,4 +55,24 @@ p{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 150px;
+}
+.exp-main-dev{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+}
+.box-shadow{
+    box-shadow: 1px 1px 40px #B9B9B9;
+    border-radius: 10px;
+    padding: 20px;
+}
+.full-stack{
+    border-left: 7px solid #FF6347;
+}
+.baby-web{
+    border-left: 7px solid #0000FF;
+}
+footer p{
+    text-align: center;
 }
