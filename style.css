@@ -5,6 +5,7 @@ body{
 .header-top{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 h1{
     font-size: 50px;
@@ -37,4 +38,17 @@ p{
     border-radius: 5px;
     color: #fff;
     font-size: 20px;
+}
+.resume-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, #FF9974,#FF694C);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 20px;
+}
+.dream-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
